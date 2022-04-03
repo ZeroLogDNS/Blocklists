@@ -1,3 +1,4 @@
+www.instagram.com
 api.instagram.com
 black.ish.instagram.com
 i.instagram.com
@@ -74,3 +75,4 @@ z-p42-instagram.c10r.facebook.com
 instagram.fncl1-1.fna.fbcdn.net
 scontent-man2-1.cdninstagram.com
 scontent-lcy1-1.cdninstagram.com
+instagram.com

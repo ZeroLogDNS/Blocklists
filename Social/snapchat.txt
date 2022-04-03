@@ -40,6 +40,8 @@ loc.sc-jpl.com
 map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
 ms.sc-jpl.com
 mvm.snapchat.com
+www.snap.com
+snap.com
 mvm.snapchat.com
 pro-accounts.snapchat.com
 sc-analytics.appspot.com

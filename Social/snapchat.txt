@@ -68,3 +68,4 @@ us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 webattachments.snapchat.com
 www.snapchat.com
+support.snapchat.com

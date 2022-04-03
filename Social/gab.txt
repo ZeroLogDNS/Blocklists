@@ -1,14 +1,14 @@
 accounts.xn----0gab.com
 account.xn----0gab.com
 admin.xn----0gab.com
-api.gab.comBRapp.gab.comBRgab.comBRintegrations.gab.comBRinvite.gab.com
+api.gab.com
 api.xn----0gab.com
+app.gab.com
 apps.xn----0gab.com
 app.xn----0gab.com
 backend.xn----0gab.com
 beta.xn----0gab.com
 blog.gab.com
-blog.gab.comBRwww.blog.gab.com
 booking.xn----0gab.com
 breach.gab.com
 btcpay.gab.com
@@ -26,14 +26,16 @@ ekrem.develop.gab.com
 eng-001.develop.gab.com
 eng-002.develop.gab.com
 gab.com
-gab.comBRgab.com
+gab.com
 game.xn----0gab.com
 gitlab.xn----0gab.com
 git.xn----0gab.com
 help.gab.com
 hostmaster.xn----0gab.com
+integrations.gab.com
 internal.xn----0gab.com
 invest.gab.com
+invite.gab.com
 invoice.xn----0gab.com
 laravel.xn----0gab.com
 local.xn----0gab.com
@@ -43,7 +45,6 @@ mail.xn----0gab.com
 main.xn----0gab.com
 members.xn----0gab.com
 news.gab.com
-news.gab.comBRwww.news.gab.com
 new.xn----0gab.com
 not-develop.gab.com
 order.xn----0gab.com
@@ -83,6 +84,7 @@ www.account.xn----0gab.com
 www.apps.xn----0gab.com
 www.backend.xn----0gab.com
 www.beta.xn----0gab.com
+www.blog.gab.com
 www.chat.xn----0gab.com
 www.cms.xn----0gab.com
 www.crm.xn----0gab.com
@@ -94,6 +96,7 @@ www.hostmaster.xn----0gab.com
 www.internal.xn----0gab.com
 www.login.xn----0gab.com
 www.main.xn----0gab.com
+www.news.gab.com
 www.prod.xn----0gab.com
 www.shop.xn----0gab.com
 www.sms.xn----0gab.com
@@ -105,4 +108,3 @@ www.uat.xn----0gab.com
 www.web.xn----0gab.com
 www.xn----0gab.com
 xn----0gab.com
-xn----0gab.comBRxn----0gab.com

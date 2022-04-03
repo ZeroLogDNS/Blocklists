@@ -1,0 +1,17 @@
+access.picnode.hu
+ads.picnode.hu
+api.picnode.hu
+auth.picnode.hu
+beta.plave.hu
+chat.picnode.hu
+fightman01bot.picnode.hu
+muvhaz.picnode.hu
+new.picnode.hu
+picnode.hu
+plave.hu
+s1-1.node.static.picnode.hu
+s2-1.node.static.picnode.hu
+static.picnode.hu
+streams.picnode.hu
+www.picnode.hu
+www.plave.hu

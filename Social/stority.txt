@@ -1,0 +1,7 @@
+cloud1-lives.stority.hu
+docs.api.stority.hu
+mail.stority.hu
+noreplymail.stority.hu
+rtmp.stority.hu
+stority.hu
+www.stority.hu

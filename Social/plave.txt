@@ -4,11 +4,15 @@ api.picnode.hu
 auth.picnode.hu
 beta.plave.hu
 chat.picnode.hu
+content-1-1.plave.hu
+content-2-1.plave.hu
 fightman01bot.picnode.hu
 muvhaz.picnode.hu
 new.picnode.hu
 picnode.hu
 plave.hu
+private-ucontent-1-1.plave.hu
+private-ucontent-2-1.plave.hu
 s1-1.node.static.picnode.hu
 s2-1.node.static.picnode.hu
 static.picnode.hu

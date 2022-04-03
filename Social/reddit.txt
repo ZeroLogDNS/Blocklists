@@ -1,0 +1,16 @@
+addons.reddit.com
+ads-api.reddit.com
+alb.reddit.com
+amp.reddit.com
+h.reddit.com
+h.reddit.comBRwww.h.reddit.com
+m.reddit.com
+m.reddit.comBRwww.m.reddit.com
+pay.reddit.com
+pixel.reddit.com
+tls-test-1.reddit.com
+tls-test-1.reddit.comBRwww.tls-test-1.reddit.com
+tls-test-2.reddit.com
+vip.reddit.com
+vip.reddit.comBRwww.vip.reddit.com
+reddit.com

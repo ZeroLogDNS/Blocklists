@@ -14,3 +14,6 @@ tls-test-2.reddit.com
 vip.reddit.com
 vip.reddit.comBRwww.vip.reddit.com
 reddit.com
+www.reddit.com
+www.redditinc.com
+redditinc.com

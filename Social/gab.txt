@@ -26,7 +26,6 @@ ekrem.develop.gab.com
 eng-001.develop.gab.com
 eng-002.develop.gab.com
 gab.com
-gab.com
 game.xn----0gab.com
 gitlab.xn----0gab.com
 git.xn----0gab.com

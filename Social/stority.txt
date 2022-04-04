@@ -5,3 +5,5 @@ noreplymail.stority.hu
 rtmp.stority.hu
 stority.hu
 www.stority.hu
+mc.stority.hu
+dc.stority.hu

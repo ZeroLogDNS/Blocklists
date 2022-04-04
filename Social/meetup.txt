@@ -22,8 +22,7 @@ looker.meetup.com
 m2mpay.meetup.com
 making.meetup.com
 meetup.com
-meetup.comBRmeetup.com
-meetup.comBRwww.meetup.com
+www.meetup.com
 memberpay.meetup.com
 nexus3.blt.meetup.com
 nexus.blt.meetup.com
@@ -43,4 +42,3 @@ stripe.memberpay.meetup.com
 swarmify.meetup.com
 test-cert.meetup.com
 test.dev.meetup.com
-www.meetup.com

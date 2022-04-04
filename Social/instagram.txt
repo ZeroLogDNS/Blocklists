@@ -2,6 +2,7 @@ www.instagram.com
 api.instagram.com
 black.ish.instagram.com
 i.instagram.com
+graph.instagram.com
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
 instagram-shv-01-ash5.fbcdn.net

@@ -8255,10 +8255,14 @@ aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 aax-us-west-rtb.amazon-adsystem.com
 aaz1.xyz
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
 ab0d-6dde-afb2-212e.reporo.net
 ab1e-0175-c12d-ee71.reporo.net
 ab3a-f9be-43ed-76ca.reporo.net
 ab3yssin4i6an.com
+advertising.twitter.com
 ab470c8dd5.com
 ab48-6103-a5ab-ec33.reporo.net
 ab4tn.com

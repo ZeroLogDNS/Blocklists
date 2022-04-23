@@ -12,5 +12,6 @@ tls-test-2.reddit.com
 vip.reddit.com
 www.h.reddit.com
 www.m.reddit.com
+www.reddit.com
 www.tls-test-1.reddit.com
 www.vip.reddit.com

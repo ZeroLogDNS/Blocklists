@@ -8255,14 +8255,10 @@ aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 aax-us-west-rtb.amazon-adsystem.com
 aaz1.xyz
-analyticsengine.s3.amazonaws.com
-affiliationjs.s3.amazonaws.com
-advertising-api-eu.amazon.com
 ab0d-6dde-afb2-212e.reporo.net
 ab1e-0175-c12d-ee71.reporo.net
 ab3a-f9be-43ed-76ca.reporo.net
 ab3yssin4i6an.com
-advertising.twitter.com
 ab470c8dd5.com
 ab48-6103-a5ab-ec33.reporo.net
 ab4tn.com
@@ -11277,6 +11273,7 @@ ads.dennisnet.co.uk
 ads.desmoinesregister.com
 ads.detelefoongids.nl
 ads.deviantart.com
+ads-dev.pinterest.com
 ads.dev.vidible.tv
 ads.dfiles.ru
 ads.dgabcsolutions.com.br
@@ -11785,6 +11782,7 @@ ads.expedia.com
 ads.eyeviewads.com
 ads.ezboard.com
 ad.seznam.cz
+ads.facebook.com
 adsfac.eu
 adsfac.net
 adsfactor.net
@@ -12257,6 +12255,7 @@ adsradios.adswizz.com
 ads.rcs.it
 ads.rd.linksynergy.com
 ads.recoletos.es
+ads.reddit.com
 ads.rediff.com
 ads.redlightcenter.com
 ads.redtube.com
@@ -12404,6 +12403,7 @@ ads.thetimes.co.uk
 ads.thewebfreaks.com
 ads.thitruongtaichinhtiente.vn
 ads.tiki.vn
+ads.tiktok.com
 adstime.org
 ads.timeout.com
 ads.timesjobsandcareers.com
@@ -12929,6 +12929,7 @@ advertising365.com
 advertising.amazon.com
 advertising.amazon.in
 advertising.aol.com
+advertising-api-eu.amazon.com
 advertising.apple.com
 advertisingbanners.com
 advertisingbox.com
@@ -12940,6 +12941,7 @@ advertisingiq.com
 advertising.microsoft.com
 advertising.oriel.io
 advertisingsex.com
+advertising.twitter.com
 advertisingvalue.info
 advertising.yahoo.com
 advertjunction.com
@@ -13513,6 +13515,7 @@ affiliate-wg.com
 affiliatewindow.com
 affiliationcash.com
 affiliation-france.com
+affiliationjs.s3.amazonaws.com
 affiliationpartner.it
 affiliation.planethoster.info
 affiliation.software
@@ -14946,6 +14949,7 @@ analyticselb.localytics.com
 analytics.electro-com.ru
 analytics.engagio.com
 analytics-engine.net
+analyticsengine.s3.amazonaws.com
 analytics.enjoymobiserver.com
 analytics.erepublic.com
 analytics.ero-advertising.com
@@ -15888,6 +15892,7 @@ api.bttrack.com
 api.bufferapp.com
 api.bugfender.com
 api.bugsee.com
+api.bugsnag.com
 api.buysellads.com
 api.c1oudmobi.net
 api-cache.adsnative.com
@@ -16591,6 +16596,7 @@ appboy-images.com
 app.brightinfo.com
 app.bugfender.com
 app.bugreplay.com
+app.bugsnag.com
 appcast.io
 app.cdn.lookbookhq.com
 app.chat.global.xiaomi.net
@@ -21925,6 +21931,7 @@ browsermobaffiliates.ojrq.net
 browser-onlytv.ru
 browserpusher.com
 browserr.top
+browser.sentry-cdn.com
 browsers.support
 browser-statistik.de
 browsertelemetry.tk
@@ -24121,6 +24128,7 @@ cdn.logly.co.jp
 cdn.logrocket.com
 cdn.logrocket.io
 cdn-log.vertamedia.com
+cdn.luckyorange.com
 cdn.madkudu.com
 cdnm.admitad.com
 cdn-magiclinks.trackonomics.net
@@ -28675,6 +28683,7 @@ cslgcomputer.club
 cs.lkqd.net
 cslogger.media.net
 csloggerorigin.media.net
+cs.luckyorange.net
 csmads.gameclick.vn
 cs.marinsm.com
 c.smartclick.net
@@ -32806,6 +32815,7 @@ dreamsaukn.co
 dreamteaser.ru
 dreamware.com.cn
 dreba03.webtrekk.net
+d.reddit.com
 dre.heapanalytics.com
 dreimer.ru
 d-religion.t.domdex.com
@@ -53952,6 +53962,7 @@ media-eu1.inq.com
 media.evergage.com
 media.evolv.ai
 media.express.clickability.com
+media.fastclick.net
 mediaffiliation.com
 mediafilesdownload.com
 mediafire-d.openx.net
@@ -54451,7 +54462,9 @@ metricool.com
 metricreceiver.cellrebel.com
 metric.rediff.com
 metrics0.com
+metrics1.data.hicloud.com
 metrics34.com
+metrics5.data.hicloud.com 
 metrics.adage.com
 metrics.admob.com
 metrics.aetn.com
@@ -58320,6 +58333,7 @@ notify-api.wshareit.com
 notify.beap.gemini.yahoo.com
 notify-bugs-fra1.rtl.de
 notify.bugsnag.appstore.a2z.com
+notify.bugsnag.com
 notify-guru.com
 notify-master.net
 notify.mgid.com
@@ -70270,6 +70284,7 @@ samsienshrivel.com
 samsungacr.com
 samsungadhub.com
 samsungads.com
+samsung-com.112.2o7.net
 samsung.demdex.net
 samsungelectronicsamericainc.demdex.net
 samsung-france.demdex.net
@@ -71829,6 +71844,7 @@ sessionapi.veinteractive.com
 session.browsee.io
 sessioncam.com
 sessionm.com
+sessions.bugsnag.com
 sessions.exchange
 sessionstack.com
 session.timecommerce.net
@@ -71854,6 +71870,7 @@ settings-1476442757.mtraction.com
 settings-1479276883.mtraction.com
 settings-analytics.hotstar.com
 settings.crashlytics.com
+settings.luckyorange.net
 settings.outbrain.com
 settings-sandbox.data.microsoft.com
 settings-win-ppe.data.microsoft.com
@@ -83619,6 +83636,7 @@ uplift-platform.com
 upliftsearch.com
 up.lijit.com
 upload.ksapisrv.com
+upload.luckyorange.net
 upload.mobpowertech.com
 uploads.adbucks.com
 uploads.contextweb.com
@@ -86406,6 +86424,7 @@ w18.9939.com
 w19v.sensityimmit.club
 w1c1.sensityimmit.club
 w1jesu6.package12.com
+w1.luckyorange.com
 w1.tcr112.tynt.com
 w1.tcr22.tynt.com
 w25e.top
@@ -87539,6 +87558,7 @@ widgets.mgid.com
 widget.socialmart.ru
 widgets.oddschecker.com
 widgets.outbrain.com
+widgets.pinterest.com
 widgets.planeta.ru
 widgets.progrids.com
 widgets.stackcommerce.com
@@ -91463,6 +91483,7 @@ youtrack-ue2.internal.connatix.com
 youtrack.vertamedia.com
 youtube2top.com
 youtubecenter.net
+youtube.cleverads.vn
 youtube.local
 youtubex.top
 youvisit.com

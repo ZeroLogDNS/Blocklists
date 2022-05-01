@@ -2612,6 +2612,7 @@ analytic.surfline.com
 analytics.urx.io
 analytics.uxmetrics.com
 analytics.valheimgamer.com
+analytics.cloud.coveo.com
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vdo.ai

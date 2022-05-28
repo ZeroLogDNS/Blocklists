@@ -2324,6 +2324,7 @@ amazonshopbop.122.2o7.net
 amazonwebservices.d2.sc.omtrdc.net
 amazonwebservicesinc.tt.omtrdc.net
 amazonwebstore.122.2o7.net
+amazonclix.com
 am.belambra.com
 ambiguousalarm.com
 ambiguousanger.com

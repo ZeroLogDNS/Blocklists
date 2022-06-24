@@ -1071,6 +1071,7 @@ adbasket.net
 ad.batanga.com
 ad-beacon-v01.uliza.jp
 ad.bharatstudent.com
+ad.adverticum.net
 ad.bizo.com
 adblade.com
 ad.blm.net
@@ -3639,6 +3640,7 @@ campaigns.panasonic.eu
 campaigns.primaverabss.com
 campaigns.rockwellautomation.com
 campaign.ssab.com
+cmp.quantcast.com
 canadapost.112.2o7.net
 cancalgary.112.2o7.net
 cancertreatmente.tt.omtrdc.net
@@ -6803,6 +6805,7 @@ greif.actonservice.com
 greyinstrument.com
 greystripe.com
 gripcorn.com
+gahu.hit.gemius.pl
 grouchypush.com
 grow.bridgepointconsulting.com
 grow.business.xerox.com

@@ -13,3 +13,5 @@ IP addresses for **DoT**:
 IPV**4**: 37.221.197.124, 94.16.120.86
 
 IPV**6**: 2a03:4000:9:6bf::1, 2a03:4000:21:a25::1
+
+If you think we're blocking something we shouldn't or we're not blocking something we should, feel free to make a pull request!

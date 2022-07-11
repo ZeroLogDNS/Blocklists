@@ -1,2 +1,2 @@
 blocked.zerologdns.net
-blocked.zerologdns.net
+blocked.getdns.in

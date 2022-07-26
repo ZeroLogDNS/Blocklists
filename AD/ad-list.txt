@@ -54457,7 +54457,6 @@ metric-agent.i10c.net
 metric-android-am.road404.com
 metrica-yandex.com
 metricfast.com
-metric.gstatic.com
 metric.huya.com
 metric.inetcore.com
 metric.nimo.tv
@@ -86778,7 +86777,6 @@ suxhap.com
 suzanne.pro
 sv1.cnzz.com
 sv1-g018.intellitxt.com
-s-v6exp1-v4.metric.gstatic.com
 sv88.com
 svacdnjutk.com
 sv-api-event.headlines.pw

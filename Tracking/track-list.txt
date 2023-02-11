@@ -1045,6 +1045,7 @@ ad.aboutwebservices.com
 adaction.de
 ad.admitad.com
 ad.adtraq.com
+ad.adverticum.net
 adadvisor.net
 adagency1.com
 ad.aliceadsl.fr
@@ -1072,7 +1073,6 @@ adbasket.net
 ad.batanga.com
 ad-beacon-v01.uliza.jp
 ad.bharatstudent.com
-ad.adverticum.net
 ad.bizo.com
 adblade.com
 ad.blm.net
@@ -1489,6 +1489,7 @@ ads.amateurmatch.com
 ads.amdmb.com
 ads.amigos.com
 ads.aol.co.uk
+ads-api.twitter.com
 ads.apn.co.nz
 ads.appsgeyser.com
 ads.as4x.tmcs.net
@@ -1887,6 +1888,7 @@ ads.pagina12.com.ar
 adspeed.net
 ads.pennet.com
 ads.phpclasses.org
+ads.pinterest.com
 adspirit.de
 ads.planet.nl
 ads.pni.com
@@ -2029,7 +2031,6 @@ ads.yldmgrimg.net
 adsymptotic.com
 adsynergy.com
 ads.yourfreedvds.com
-ads.youtube.com
 adsystem.simplemachines.org
 adsys.townnews.com
 ads.zdnet.com
@@ -2097,6 +2098,7 @@ advertisementafterthought.com
 advertisementnl.112.2o7.net
 advertiserurl.com
 advertisespace.com
+advertising-api-eu.amazon.com
 advertisingbanners.com
 advertisingbox.com
 advertising.com
@@ -2210,6 +2212,7 @@ affiliate.treated.com
 affiliate.viator.com
 affiliatewindow.com
 affiliation-france.com
+affiliationjs.s3.amazonaws.com
 affili.net
 affiz.net
 affrh2014.com
@@ -2318,7 +2321,9 @@ altopd.com
 alwayscare.starmountlife.com
 amadeus.d2.sc.omtrdc.net
 amazingcounters.com
+amazonaax.com
 amazon-adsystem.com
+amazonclix.com
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonmerchants.122.2o7.net
 amazonservices.122.2o7.net
@@ -2326,7 +2331,6 @@ amazonshopbop.122.2o7.net
 amazonwebservices.d2.sc.omtrdc.net
 amazonwebservicesinc.tt.omtrdc.net
 amazonwebstore.122.2o7.net
-amazonclix.com
 am.belambra.com
 ambiguousalarm.com
 ambiguousanger.com
@@ -2421,6 +2425,7 @@ analytics.chegg.com
 analytics.churchthemes.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cloud.coveo.com
 analytics.cmn.com
 analytics-cms.whitebeard.me
 analytics.cocolog-nifty.com
@@ -2450,6 +2455,7 @@ analytics.edgekey.net
 analytics.edgesuite.net
 analytics.eggoffer.com
 analytics.elx.cloud
+analyticsengine.s3.amazonaws.com
 analytics.erepublic.com
 analytics.explained-from-first-principles.com
 analytics.faceitanalytics.com
@@ -2615,7 +2621,6 @@ analytic.surfline.com
 analytics.urx.io
 analytics.uxmetrics.com
 analytics.valheimgamer.com
-analytics.cloud.coveo.com
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vdo.ai
@@ -3641,7 +3646,6 @@ campaigns.panasonic.eu
 campaigns.primaverabss.com
 campaigns.rockwellautomation.com
 campaign.ssab.com
-cmp.quantcast.com
 canadapost.112.2o7.net
 cancalgary.112.2o7.net
 cancertreatmente.tt.omtrdc.net
@@ -4183,6 +4187,7 @@ cmp.huffingtonpost.fr
 cmpmedica.112.2o7.net
 cmp.netzwelt.de
 cmp.nouvelobs.com
+cmp.quantcast.com
 cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
@@ -4946,7 +4951,6 @@ dbbsrv.com
 dbex-tracker-v2.driveback.ru
 dbpbyh.americanas.com.br
 dbzpek.nike.com
-d.reddit.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dc.banggood.com
@@ -5259,6 +5263,7 @@ dratingmaject.com
 drawermice.com
 drawservant.com
 dreamhome.112.2o7.net
+d.reddit.com
 dressexpansion.com
 drfdisvc.walmart.com
 dripappliance.com
@@ -6501,6 +6506,7 @@ gaafbi.fashiondays.hu
 ga-beacon.appspot.com
 ga.clearbit.com
 ga.giuem.com
+gahu.hit.gemius.pl
 gainautomileage.com
 ga.kvideo.io
 gak.webtoons.com
@@ -6806,7 +6812,6 @@ greif.actonservice.com
 greyinstrument.com
 greystripe.com
 gripcorn.com
-gahu.hit.gemius.pl
 grouchypush.com
 grow.bridgepointconsulting.com
 grow.business.xerox.com

@@ -4,6 +4,8 @@ Block lists for additional zerologdns services.
 
 AD-Block (DoT): clearnet.zerologdns.com
 
+AD-Block (DoH): https://clearnet.zerologdns.com/dns-query
+
 
 IP addresses for **DoT**: 
 

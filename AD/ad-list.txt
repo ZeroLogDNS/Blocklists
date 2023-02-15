@@ -11781,6 +11781,7 @@ ads.expedia.com
 ads.eyeviewads.com
 ads.ezboard.com
 ad.seznam.cz
+ads.facebook.com
 adsfac.eu
 adsfac.net
 adsfactor.net
